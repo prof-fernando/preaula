@@ -18,3 +18,5 @@ jobs:
      java-version: '21'
   - name: executando maven
     run: mvn clean install -DskipTests
+  - name: login dockerhub
+    run: docker login -u ${{secrets.DOCKER_LOGIN}} -p ${{secrets.DOCKER_PASS}}

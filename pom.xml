@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>br.edu.iffarroupilha</groupId>
-	<artifactId>sigachat</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<name>sigachat</name>
+	<artifactId>sigachat2</artifactId>
+	<version>1.0.0</version>
+	<name>sigachat2</name>
 	<description>Sistema de bate papo online</description>
 	<url/>
 	<licenses>
